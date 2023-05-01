@@ -5,4 +5,6 @@ task21/bin
 task21/obj
 task23/bin
 task23/obj
+task21HARD/bin
+task21HARD/obj
 *.csproj
